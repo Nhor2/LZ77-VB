@@ -1,4 +1,4 @@
-RTF-LZ77-VB
+\## RTF-LZ77-VB
 High-Integrity LZ77 Compression for Rich Text Format (RTF)
 
 Questo progetto implementa un algoritmo di compressione LZ77 custom in VB.NET, progettato specificamente per gestire file RTF complessi contenenti immagini e metadati binari. A differenza delle implementazioni standard, questa versione garantisce l'integrità binaria al 100% (Binary Identity).
@@ -21,4 +21,5 @@ Lunghezza Match: 3 - 18 byte (codificati in 4 bit).
 
 Token: 16-bit (12 bit distanza, 4 bit lunghezza).
 
-Escape System: Gestione del MarkerByte (&HFF) tramite raddoppio per evitare conflitti con i dati binari.
+Escape System: Gestione del MarkerByte (\&HFF) tramite raddoppio per evitare conflitti con i dati binari.
+
