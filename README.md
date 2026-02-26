@@ -1,7 +1,20 @@
-&nbsp;## LZ77-VB
+\# RTF LZ77-VB 
+
+!\[License](https://img.shields.io/badge/License-MIT-green.svg)
+
+!\[VB.NET](https://img.shields.io/badge/VB.NET-blue.svg)
+
+!\[WinForms](https://img.shields.io/badge/WinForms-.NET-lightblue.svg)
+
+!\[.NET Framework](https://img.shields.io/badge/.NET\_Framework-4.8.1-purple.svg)
+
+!\[Platform](https://img.shields.io/badge/Platform-Windows-informational.svg)
+
 
 
 High-Integrity LZ77 Compression for Rich Text Format (RTF)
+
+
 
 Questo progetto implementa un algoritmo di compressione LZ77 custom in VB.NET, progettato specificamente per gestire file RTF complessi contenenti immagini e metadati binari. A differenza delle implementazioni standard, questa versione garantisce l'integrità binaria al 100% (Binary Identity).
 
