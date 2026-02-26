@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\bin\Debug\RTF-LZ77-Compressione.exe.config
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\bin\Debug\RTF-LZ77-Compressione.exe
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\bin\Debug\RTF-LZ77-Compressione.pdb
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\bin\Debug\RTF-LZ77-Compressione.xml
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF_LZ77_Compressione.Form1.resources
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF_LZ77_Compressione.Resources.resources
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.exe
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.xml
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.pdb
+C:\Users\lordm\source\repos2\RTF-LZ77-Compressione\obj\Debug\RTF-LZ77-Compressione.exe.config
