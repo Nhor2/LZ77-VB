@@ -1,4 +1,4 @@
-\## LZ77-VB
+&nbsp;## LZ77-VB
 
 
 High-Integrity LZ77 Compression for Rich Text Format (RTF)
